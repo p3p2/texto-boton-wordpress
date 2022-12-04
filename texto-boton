@@ -1,0 +1,19 @@
+# Editar en wordpess como HTML.
+
+# Texto con elnlace y botón con enlace en un párrafo.
+<p><a href="Aquí poner URL"> Aquí poner texto con enlace</a> Puedes poner texto sin enlace
+# Esto es el botón.
+<a class="wp-block-button__link 
+#esto es para definir los colores.
+has-white-color has-vivid-green-cyan-background-color has-text-color has-background wp-element-button" href="URL de destino">Texto del botón</a></p>
+
+<p>
+<a href="https://github.com/">Texto</a>
+<a class="wp-block-button__link has-white-color has-vivid-green-cyan-background-color has-text-color has-background wp-element-button" href="https://github.com/">Texto</a>
+</p>
+
+# Texto y botón en un párrafo.
+<p>
+Texto
+<a class="wp-block-button__link has-white-color has-vivid-green-cyan-background-color has-text-color has-background wp-element-button" href="https://github.com/">Texto</a>
+</p>
